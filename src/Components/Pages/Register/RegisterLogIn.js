@@ -116,7 +116,7 @@ const RegisterLogIn = () => {
 	return (
 		<div className='Register__window'>
 			<h3 className='Register__title'>
-				Войти в <span>TastyPriority</span>
+				Войти в <span>Онлайн-магазин доставки продуктов</span>
 			</h3>
 			<RegisterGoogle onLoginSuccess={handleGoogleLoginSuccess}  />
 			<p className='Register__or'>ИЛИ</p>

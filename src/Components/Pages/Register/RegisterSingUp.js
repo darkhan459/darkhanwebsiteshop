@@ -102,7 +102,7 @@ const RegisterSingUp = () => {
 	return (
 		<div className='Register__window'>
 			<h3 className='Register__title'>
-				Зарегистрироваться в <span>TastyPriority</span>
+				Зарегистрироваться в <span>Онлайн-магазин доставки продуктов</span>
 			</h3>
 			<button className='Sing__to__google'>
 				<img src={GoogleLogo} alt='Google' />
